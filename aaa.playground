@@ -1,0 +1,11 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+var str = "Hello, playground"
+print(str);
+
+
+var person : (String, Int, Double) = ("lee",100,182.5);
+person.1 = 99; // 인덱스를 통해 값할당가능
+
