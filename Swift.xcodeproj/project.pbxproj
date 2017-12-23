@@ -8,10 +8,12 @@
 
 /* Begin PBXFileReference section */
 		8BFD9200C5EF54FF9195D381 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8BFD9464FA3788FE6D08EAD7 /* flowControll.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = flowControll.md; sourceTree = "<group>"; };
 		8BFD95A12DFD7EC1CD4F5EFA /* Basic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basic.swift; sourceTree = "<group>"; };
 		8BFD96495B2629052612C2FB /* aaa.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = aaa.playground; sourceTree = "<group>"; };
 		8BFD9CAE6FEB548621992266 /* Type.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Type.md; sourceTree = "<group>"; };
-		8BFD9FA48236CF3DDEB5483E /* Type */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Type; sourceTree = "<group>"; };
+		8BFD9F2ABB33E2A6B36CFF01 /* Funtion.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Funtion.md; sourceTree = "<group>"; };
+		8BFD9FA48236CF3DDEB5483E /* Operator.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Operator.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -29,7 +31,9 @@
 			isa = PBXGroup;
 			children = (
 				8BFD9CAE6FEB548621992266 /* Type.md */,
-				8BFD9FA48236CF3DDEB5483E /* Type */,
+				8BFD9FA48236CF3DDEB5483E /* Operator.md */,
+				8BFD9464FA3788FE6D08EAD7 /* flowControll.md */,
+				8BFD9F2ABB33E2A6B36CFF01 /* Funtion.md */,
 			);
 			path = Markdown.md;
 			sourceTree = "<group>";

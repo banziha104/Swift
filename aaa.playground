@@ -8,4 +8,3 @@ print(str);
 
 var person : (String, Int, Double) = ("lee",100,182.5);
 person.1 = 99; // 인덱스를 통해 값할당가능
-
