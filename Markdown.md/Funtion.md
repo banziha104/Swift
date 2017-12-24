@@ -85,7 +85,7 @@ name(&number) //&을 붙이면 참조값으로 바뀜
 
 ```swift
 
-typealias MoveFunc = (Int) -> Int
+typealias MoveFunc = (Int) -> Int // 함수 지정
 
 func functionForMove(_ shouldGoLeft : Bool) -> MoveFunc{
     func goRight(_ curPos : Int) -> Int {
