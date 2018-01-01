@@ -9,11 +9,12 @@
 /* Begin PBXFileReference section */
 		8BFD9200C5EF54FF9195D381 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8BFD93AFF7596C380C49A94E /* ClassAndStruct.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ClassAndStruct.md; sourceTree = "<group>"; };
-		8BFD9464FA3788FE6D08EAD7 /* flowControll.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = flowControll.md; sourceTree = "<group>"; };
+		8BFD9464FA3788FE6D08EAD7 /* FlowControll.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = FlowControll.md; sourceTree = "<group>"; };
 		8BFD95A12DFD7EC1CD4F5EFA /* Basic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basic.swift; sourceTree = "<group>"; };
 		8BFD96495B2629052612C2FB /* aaa.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = aaa.playground; sourceTree = "<group>"; };
 		8BFD9BDE3DC6D9BBD0857BC3 /* Optional.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Optional.md; sourceTree = "<group>"; };
 		8BFD9CAE6FEB548621992266 /* Type.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Type.md; sourceTree = "<group>"; };
+		8BFD9EE933DFB5368A83AB64 /* PropertyAndMethod.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = PropertyAndMethod.md; sourceTree = "<group>"; };
 		8BFD9F2ABB33E2A6B36CFF01 /* Funtion.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Funtion.md; sourceTree = "<group>"; };
 		8BFD9FA48236CF3DDEB5483E /* Operator.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Operator.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -24,22 +25,23 @@
 			children = (
 				8BFD9D06FA8F02EA418360F0 /* Products */,
 				8BFD9200C5EF54FF9195D381 /* README.md */,
-				8BFD9914401E0D3A59EAE4A2 /* Markdown.md */,
+				8BFD9914401E0D3A59EAE4A2 /* Markdown */,
 				8BFD96495B2629052612C2FB /* aaa.playground */,
 			);
 			sourceTree = "<group>";
 		};
-		8BFD9914401E0D3A59EAE4A2 /* Markdown.md */ = {
+		8BFD9914401E0D3A59EAE4A2 /* Markdown */ = {
 			isa = PBXGroup;
 			children = (
 				8BFD9CAE6FEB548621992266 /* Type.md */,
 				8BFD9FA48236CF3DDEB5483E /* Operator.md */,
-				8BFD9464FA3788FE6D08EAD7 /* flowControll.md */,
+				8BFD9464FA3788FE6D08EAD7 /* FlowControll.md */,
 				8BFD9F2ABB33E2A6B36CFF01 /* Funtion.md */,
 				8BFD9BDE3DC6D9BBD0857BC3 /* Optional.md */,
 				8BFD93AFF7596C380C49A94E /* ClassAndStruct.md */,
+				8BFD9EE933DFB5368A83AB64 /* PropertyAndMethod.md */,
 			);
-			path = Markdown.md;
+			path = Markdown;
 			sourceTree = "<group>";
 		};
 		8BFD9D06FA8F02EA418360F0 /* Products */ = {
