@@ -21,6 +21,49 @@ class MyClass{
 let mStruct : MyStruct = MyStruct(x:10,y:5) // 구조체는 기본적으로 저장 프로퍼티를 매겨변수로 가지는 이니셜라이즈가 존대 
 ```
 
+> 옵셔널 저장 프로퍼티
+
+```swift
+/* 옵셔널 저장 프로퍼티 */
+struct CoordinatePoint{
+    var x : Int
+    var y : Int
+}
+
+class Position{
+    var point : CoordinatePoint? // 옵셔널 저장 프로터티
+    let name : String
+    
+    init(name : String){
+        self.name = name
+    }
+}
+
+let mPosition :Position = Positon(name: "lee") // name은 optional이 아니기때문에 넣어줘야함
+mPosition.ponit = CoordinatePoint(x:20,y:10) // 값장입 가능한경우 넣어줄수 있음
+```
+
+> 지연 저장 프로퍼티
+
+```swift
+
+struct CoordinatePoint{
+    var x : Int
+    var y : Int
+}
+
+class Position{
+    var point : CoordinatePoint? // 옵셔널 저장 프로터티
+    let name : String
+    
+    init(name : String){
+        self.name = name
+    }
+}
+
+let mPosition :Position = Positon(name: "lee") // name은 optional이 아니기때문에 넣어줘야함
+mPosition.ponit = CoordinatePoint(x:20,y:10) // 값장입 가능한경우 넣어줄수 있음
+```
 - 연산 프로퍼티
 
 
