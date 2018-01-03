@@ -171,3 +171,22 @@ struct LevelStruct{
 - self 프로퍼티 
 
 > 모든 인스턴스는 암시적으로 생성된 self 프로퍼티를 가지고, 자바의 this, 파이썬의 self처럼 자기 자신을 가르키는 프로퍼티.
+
+- 타입 메서드
+
+> 타입 자체에 호출이 가능한 메서드를 타입 메서드라고함, self 프로퍼티가 타입 자체를 가리키게됌
+
+```swift
+class AClass{
+
+    /* static 타입 메서드 재정의 불가능*/
+    static func staticTypeMethod(){
+        print("is staticTypeMethod")
+    
+    }
+    /* class 타입 메서드 상속후 재정의 가능*/
+    class func classTypeMethod(){
+        print("is classTypeMethod")
+    }
+}
+```
