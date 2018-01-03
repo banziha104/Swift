@@ -48,12 +48,12 @@ mPosition.ponit = CoordinatePoint(x:20,y:10) // 값장입 가능한경우 넣어
 ```swift
 
 struct CoordinatePoint{
-    var x : Int
-    var y : Int
+    var x : Int = 0
+    var y : Int = 0
 }
 
 class Position{
-    var point : CoordinatePoint? // 옵셔널 저장 프로터티
+    lazy var point : CoordinatePoint = CoordinatePoint()// 옵셔널 저장 프로터티
     let name : String
     
     init(name : String){
@@ -62,9 +62,110 @@ class Position{
 }
 
 let mPosition :Position = Positon(name: "lee") // name은 optional이 아니기때문에 넣어줘야함
-mPosition.ponit = CoordinatePoint(x:20,y:10) // 값장입 가능한경우 넣어줄수 있음
+/*아래 코드를 실행시, point 프로퍼티의 CoordinatePonit가 생성됨*/
+print(mPosition.point)
 ```
+
 - 연산 프로퍼티
 
+> 실제 값을 저장하는 프로퍼티가 아닌, 특정 상태에 따른 값을 연산하는 프로퍼티
+
+```swift
+struct CoodinatePoint {
+    var x:Int
+    var y:Int
+    
+    var oppositePoint : CoordinatePoint{
+        get{
+            return CoodinatePoint(x:-x,y:-y);
+        }
+        set(opposite){
+            x = -opposite.x
+            y = -opposite.y
+        }
+        /*매개변수의 이름 생략시, newValue를 이용함*/
+        set{
+            x = newValue.x
+            y = newValue.y
+        }
+    }
+}
+```
+
+- 프로퍼티 감시자 
+> 프로퍼티 감시자는 프로퍼티의 값이 새로 할당될떄마다 호출됨. 모든 변수에 사용가능
+
+```swift
+class Account{
+    var credit: Int = 0 {
+        willSet{
+            print("잔액 \(credit)원에서 \(newValue)원으로 변경될 예정") // 바뀌기전
+        }
+        didSet {
+            print("잔액 \(credit)원에서 \(newValue)원으로 변경될 예정") // 바뀐후
+        }
+    }
+}
+
+/*상속시 오버라이드 가능*/
+class ForeignAccount : Account{
+    override var credit: Int{
+        willSet{
+            print("잔액 \(credit)달러에서 \(newValue)달러로 변경될 예정") // 바뀌기전
+        }
+        didSet {
+            print("잔액 \(credit)달러에서 \(newValue)달러로 변경될 예정") // 바뀐후
+        }
+    }
+}
+```
 
 - 타입 프로퍼티
+
+> 인스턴스가 아닌 타입 자체에 속하는 프로퍼티, 그 타입의 모든 인스턴스가 공통으로 사용하는 값
+
+```swift
+class AClass{
+    static var typeProperty : Int = 1 // 타입 프로퍼티
+}
+```
+
+# 메서드
+
+- 인스턴스 메서드
+
+> 특정 타입의 인스턴스에 속한 함수를 뜻함
+
+```swift
+
+class LevelClass{
+
+    var level : Int = 0 {
+        didSet{
+            print("Level \(level)");
+        }
+        
+    }
+    
+    // 레벨업 메서드
+    func levelUp() {
+        print("Level Up")
+        level += 1
+    }
+}
+
+struct LevelStruct{
+    var level: Int = 0 {
+        didSet{
+            print("Level\(level)")
+        }
+    }
+    /* 구조체에서 프로퍼티의 값을 바꿔야하는 경우, mutating 키워드 사용*/
+    mutating func levelUp(){
+        print("Level Up!") 
+        level += 1
+    }
+}
+```
+
+- self 프로퍼티 
