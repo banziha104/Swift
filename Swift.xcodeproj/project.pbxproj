@@ -16,6 +16,7 @@
 		8BFD96495B2629052612C2FB /* aaa.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = aaa.playground; sourceTree = "<group>"; };
 		8BFD9BDE3DC6D9BBD0857BC3 /* Optional.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Optional.md; sourceTree = "<group>"; };
 		8BFD9CAE6FEB548621992266 /* Type.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Type.md; sourceTree = "<group>"; };
+		8BFD9D6DA61E1DC70DFF25AF /* Closer.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Closer.md; sourceTree = "<group>"; };
 		8BFD9EE933DFB5368A83AB64 /* PropertyAndMethod.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = PropertyAndMethod.md; sourceTree = "<group>"; };
 		8BFD9F2ABB33E2A6B36CFF01 /* Funtion.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Funtion.md; sourceTree = "<group>"; };
 		8BFD9FA48236CF3DDEB5483E /* Operator.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Operator.md; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 				8BFD9EE933DFB5368A83AB64 /* PropertyAndMethod.md */,
 				8BFD9596BA21D0C5D990BDAE /* Instance.md */,
 				8BFD921A074B26546543829E /* AceessControl.md */,
+				8BFD9D6DA61E1DC70DFF25AF /* Closer.md */,
 			);
 			path = Markdown;
 			sourceTree = "<group>";
