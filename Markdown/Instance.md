@@ -119,3 +119,40 @@ class Person{
     }
 }
 ```
+
+- 클로저를 통한 프로퍼티 기본값 설정
+
+> 클로저가 실행되는 시점은 초기화할 때, 다른 프로퍼티 값이 설정되기 전임
+```swift
+class Student{
+    var name : String?
+    var number: Int?
+}
+
+class SchoolClass{
+    var students : [Student] = {
+        var arr : [Student] = [Student]()
+        
+        for num in 1...15{
+            var student : Student = Student(name:nil, nubmer:nil)
+            arr.append(student)
+        }
+        return arr
+    }() // 클로저 실행
+}
+```
+
+- 디이니셜라이저 : 클래스의 인스턴스에만 구현할 수 있음
+
+```swift
+ class SomeClass{
+    deinit {
+        print("인스턴스 소멸")
+    }
+    
+ }
+ 
+var instance : SomeClass? = SomeClass()
+instance = nil // 인스턴스 소멸
+```
+
