@@ -111,3 +111,12 @@ func EscapingClosure(completionHandler : @escaping () -> Void) {
 }
 ``` 
 
+# withoutActuallyEscaping
+
+> 실제로는 탈출하지 않는데 다른 함수에서 탈출 클로저를 요구하는 상황
+
+```swift
+func hasElements( in array : [Int] , match predicate : (Int)->Bool) -> Bool {
+    return (array.lazy.filter {predicate($0)}.isEmpty == false)
+}
+```
