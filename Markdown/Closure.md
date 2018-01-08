@@ -80,7 +80,7 @@ let reversed : [String] = names.sorted(by: >)
 > 비동기의 경우, 현재 상태를 미리 획득해두지 않으면, 실제로 클로저의 기능을 실행하는 순간에는 주변의 상수나 변수가 이미 메모리에 없을 경우가 발생
 
 ```swift
-func makeIncrementar(forIncrement amount: Int) -> (() -> Intt){
+func makeIncrementar(forIncrement amount: Int) -> (() -> Int){ //함수를 반환함 
     var runningTotal = 0;
     func incrementer() -> Int {
         runningTotal += amount
@@ -89,3 +89,25 @@ func makeIncrementar(forIncrement amount: Int) -> (() -> Intt){
     return incrementer
 } 
 ```
+
+# 클로저는 참조 타입
+
+```swift
+let incrementByTwo : (()->Int) = makeIncremeneter(forIncrement :2)
+let first : Int = incrementByTwo() // 2
+let second : Int = incrementByTwo() // 4
+let third : Int = incrementByTwo() // 6
+```
+
+# 탈출 클로저
+
+> 함수의 전달인자로 전달한 클로저가 함수 종료 후에 호출될 때 클로저가 함수를 탈출한다라고 함
+> 탈출클로저에는 명시적으로 self를 사용해야함
+
+
+```swift
+func EscapingClosure(completionHandler : @escaping () -> Void) {
+    completionHandlers.append(completionHandler)
+}
+``` 
+
