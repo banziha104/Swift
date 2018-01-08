@@ -117,6 +117,30 @@ func EscapingClosure(completionHandler : @escaping () -> Void) {
 
 ```swift
 func hasElements( in array : [Int] , match predicate : (Int)->Bool) -> Bool {
-    return (array.lazy.filter {predicate($0)}.isEmpty == false)
+    return (array.lazy.filter {predicate($0)}.isEmpty == false) // 탈출하진 않지만, 다른 함수에서 필요로 하는 경우
 }
 ```
+
+- 사용법
+
+```swift
+func hasElements( in array : [Int] , match predicate : (Int)->Bool) -> Bool {
+    return withoutActuallyEscaping(predicate, do : {array.lazy.filter {predicate($0)}.isEmpty == false}) // 첫번째 인자로 탈출함수인척 해야하는 클로저, 두번쨰 인자로 실행블락 전달
+}
+```
+
+- 자동 클로저
+
+> 함수의 전달인자로 전달하는 표현을 자동으로 변환해주는 클로저, 전달인자를 가지지 않음.
+
+```swift
+var customersInLine : [String] = ["lee","young","joon"]
+
+func serveCustomer(_ customerProvider : () -> String) {
+    print("Now serving \(customerProvider())")
+}
+
+serveCustomer( { customersInLine.removeFirst()}) 
+
+```
+
