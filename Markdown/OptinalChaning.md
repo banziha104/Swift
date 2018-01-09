@@ -65,4 +65,11 @@ guard let location : String = person["location"] else{
 print("\(location) is good")
 ```
 
+- 여러 조건 나열
 
+```swift
+/*and 연산자로 이어져있음*/
+guard  let name : String = name, let age : Int = age, age > 19, name.isEmpty == false else{
+
+}
+```

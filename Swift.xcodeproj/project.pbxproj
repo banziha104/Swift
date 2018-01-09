@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		8BFD90BEA65AD6FCEC09224D /* FuntionalProgramming.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = FuntionalProgramming.md; sourceTree = "<group>"; };
 		8BFD9200C5EF54FF9195D381 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8BFD921A074B26546543829E /* AceessControl.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = AceessControl.md; sourceTree = "<group>"; };
 		8BFD93AFF7596C380C49A94E /* ClassAndStruct.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ClassAndStruct.md; sourceTree = "<group>"; };
@@ -58,6 +59,7 @@
 				8BFD921A074B26546543829E /* AceessControl.md */,
 				8BFD9D6DA61E1DC70DFF25AF /* Closure.md */,
 				8BFD97D8E4E97D9AEDAC0F5B /* OptinalChaning.md */,
+				8BFD90BEA65AD6FCEC09224D /* FuntionalProgramming.md */,
 			);
 			path = Markdown;
 			sourceTree = "<group>";
