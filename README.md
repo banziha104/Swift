@@ -25,7 +25,7 @@
 
 
 
-- ### [접근제어](https://github.com/banziha104/Swift/blob/master/Markdown/AccessControl.md)
+- ### [접근제어](https://github.com/banziha104/Swift/blob/master/Markdown/AceessControl.md)
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-- ### [옵셔널 체이닝과 빠른 종료](https://github.com/banziha104/Swift/blob/master/Markdown/OptionalChaning.md)
+- ### [옵셔널 체이닝과 빠른 종료](https://github.com/banziha104/Swift/blob/master/Markdown/OptinalChaning.md)
 
 
 
