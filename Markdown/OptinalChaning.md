@@ -24,7 +24,7 @@ var province : String
 var city : String
 var street : String
 var building : Building?
-var detailAddresss : String?
+var detailAddress : String?
 }
 
 class Person {
@@ -47,7 +47,7 @@ if let roomNumber : Int = lee.address?.building?.room?.number{ //옵셔널 체�
 
 # 빠른종료
 
-> guard 구문은 if와 유사하게 bool 타입으로 실행ㅌ하며,
+> guard 구문은 if와 유사하게 bool 타입으로 실행하며, else 구문에는 자신보다 상우의 코드 블록을 종료하는 코드가 들거가게 됌.
 
 ```swift
 guard Bool 타입 값 else{
@@ -55,3 +55,14 @@ guard Bool 타입 값 else{
     제어문 전환 명령
 }
 ```
+
+- 옵셔널 바인딩 활용
+
+```swift
+guard let location : String = person["location"] else{
+    print("i don't know where are you") 
+}
+print("\(location) is good")
+```
+
+
