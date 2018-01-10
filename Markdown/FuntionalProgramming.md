@@ -22,3 +22,31 @@ doubleNum = number.map{$0 * 2}
 <br>
 
 ---
+
+# filter
+
+> 컨테이너 내부의 값을 걸러서 추출하는 역할을 하는 고차함수
+
+```swift
+let number : [Int] = [0,1,2,3,4,5]
+
+let evenNUmber : [Int] = number{ $0 % 2 != 0}
+```
+
+# reduce 
+
+> 종합해서 반환하는 메서드
+
+```swift
+var sum: Int = numbers.reduce(0, {(result:Int, elemenet:Int)-> Int in 
+    print("\(result) + \(elemenet)")
+    return result + elemenet
+})
+
+sum = numbers.reduce(into : 0, {(result : inout Int, element:Int) in  // reduce(into: _:) 사용
+    print("\(result)+\(element)")
+    result += element
+})
+```
+
+
