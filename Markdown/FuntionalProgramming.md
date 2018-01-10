@@ -49,4 +49,14 @@ sum = numbers.reduce(into : 0, {(result : inout Int, element:Int) in  // reduce(
 })
 ```
 
+# flatMap 
 
+> 값이 있으면 처리하고 값이 없으면 그대로 반환함.
+
+```swift
+
+let optionalArr : [Int?] = [1, 2, nil, 5]
+
+let mappedArr : [Int?] = optionalArr.map{ $0 } // Optional(1), Optional(2), nil, Optional(3)
+let flatmappedArr : [Int] = optionalArr.map{ $0 } // 1,2,4
+```

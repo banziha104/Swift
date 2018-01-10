@@ -20,6 +20,7 @@
 		8BFD9CAE6FEB548621992266 /* Type.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Type.md; sourceTree = "<group>"; };
 		8BFD9D196DD1C957692DA0FF /* 1weeks.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = 1weeks.md; sourceTree = "<group>"; };
 		8BFD9D6DA61E1DC70DFF25AF /* Closure.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Closure.md; sourceTree = "<group>"; };
+		8BFD9DF405149670FE344DC3 /* Subscript.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Subscript.md; sourceTree = "<group>"; };
 		8BFD9EE933DFB5368A83AB64 /* PropertyAndMethod.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = PropertyAndMethod.md; sourceTree = "<group>"; };
 		8BFD9F2ABB33E2A6B36CFF01 /* Funtion.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Funtion.md; sourceTree = "<group>"; };
 		8BFD9FA48236CF3DDEB5483E /* Operator.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Operator.md; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				8BFD9D6DA61E1DC70DFF25AF /* Closure.md */,
 				8BFD97D8E4E97D9AEDAC0F5B /* OptinalChaning.md */,
 				8BFD90BEA65AD6FCEC09224D /* FuntionalProgramming.md */,
+				8BFD9DF405149670FE344DC3 /* Subscript.md */,
 			);
 			path = Markdown;
 			sourceTree = "<group>";
