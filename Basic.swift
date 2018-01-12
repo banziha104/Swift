@@ -9,4 +9,7 @@ class A {
     func main(){
 
     }
+    subscript(index : Int) -> Int{
+
+    }
 }

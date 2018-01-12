@@ -99,3 +99,17 @@ func functionForMove(_ shouldGoLeft : Bool) -> MoveFunc{
 
 ```
 
+- inout 키워드 : 해당되는 값을 참조로 바꿀 경우
+
+```swift
+func swap(value v1: inout Int, with v2: inout Int) {
+   let buffer = v1
+   v1 = v2
+   v2 = buffer
+}
+
+var a = 123
+var b = 456
+swap(value: &a, with: &b)
+
+```
