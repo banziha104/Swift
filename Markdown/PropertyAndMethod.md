@@ -182,7 +182,6 @@ class AClass{
     /* static 타입 메서드 재정의 불가능*/
     static func staticTypeMethod(){
         print("is staticTypeMethod")
-    
     }
     /* class 타입 메서드 상속후 재정의 가능*/
     class func classTypeMethod(){

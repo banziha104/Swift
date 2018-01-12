@@ -57,7 +57,7 @@
 
 - ### [프로토콜 지향 프로그래밍](https://github.com/banziha104/Swift/blob/master/Markdown/FuntionalProgramming.md)
 
-- ### [타입중첩](https://github.com/banziha104/Swift/blob/master/Markdown/FuntionalProgramming.md)
+- ### [타입중첩](https://github.com/banziha104/Swift/blob/master/Markdown/NestedType.md)
 
 - ### [패턴](https://github.com/banziha104/Swift/blob/master/Markdown/FuntionalProgramming.md)
 
