@@ -18,7 +18,9 @@
 		8BFD96495B2629052612C2FB /* aaa.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = aaa.playground; sourceTree = "<group>"; };
 		8BFD97B760CF6056F6066AF1 /* Protocol.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Protocol.md; sourceTree = "<group>"; };
 		8BFD97D8E4E97D9AEDAC0F5B /* OptinalChaning.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = OptinalChaning.md; sourceTree = "<group>"; };
+		8BFD981A2E1688F3DE8E63A8 /* iOSMemoryManagement.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = iOSMemoryManagement.md; sourceTree = "<group>"; };
 		8BFD98E6E9FE97458627DA5E /* Inheritance.md */ = {isa = PBXFileReference; lastKnownFileType = "file.ㅡㅇ"; path = Inheritance.md; sourceTree = "<group>"; };
+		8BFD98E9A9C70032D1094CFA /* Enumeration.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Enumeration.md; sourceTree = "<group>"; };
 		8BFD9923184F7A9237BA64F1 /* Pattern.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Pattern.md; sourceTree = "<group>"; };
 		8BFD9B394D84D7858A0E8B1D /* Extensions.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Extensions.md; sourceTree = "<group>"; };
 		8BFD9BDE3DC6D9BBD0857BC3 /* Optional.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Optional.md; sourceTree = "<group>"; };
@@ -49,6 +51,7 @@
 			children = (
 				8BFD9D196DD1C957692DA0FF /* 1weeks.md */,
 				8BFD951340C7DA49E3EFBB1E /* TableVIew.md */,
+				8BFD981A2E1688F3DE8E63A8 /* iOSMemoryManagement.md */,
 			);
 			path = "Xcode&Ios";
 			sourceTree = "<group>";
@@ -74,6 +77,7 @@
 				8BFD97B760CF6056F6066AF1 /* Protocol.md */,
 				8BFD9B394D84D7858A0E8B1D /* Extensions.md */,
 				8BFD9923184F7A9237BA64F1 /* Pattern.md */,
+				8BFD98E9A9C70032D1094CFA /* Enumeration.md */,
 			);
 			path = Markdown;
 			sourceTree = "<group>";
