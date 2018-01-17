@@ -178,7 +178,7 @@ struct LevelStruct{
 
 ```swift
 class AClass{
-
+    
     /* static 타입 메서드 재정의 불가능*/
     static func staticTypeMethod(){
         print("is staticTypeMethod")
@@ -187,5 +187,6 @@ class AClass{
     class func classTypeMethod(){
         print("is classTypeMethod")
     }
+     
 }
 ```

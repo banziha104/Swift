@@ -17,7 +17,7 @@ class Building{
     init(name : String){
         self.name = name
     }
-}
+
 
 struct Address{
 var province : String
@@ -27,12 +27,17 @@ var building : Building?
 var detailAddress : String?
 }
 
+
 class Person {
     var name : String
     var address : Address?
     init(name : String){
         self.name = name
     }
+}
+class Amount{
+    var name : String
+    var 
 }
 
 let lee : Person = Person(name : "lee")

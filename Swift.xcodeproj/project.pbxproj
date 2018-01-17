@@ -12,6 +12,7 @@
 		8BFD921A074B26546543829E /* AceessControl.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = AceessControl.md; sourceTree = "<group>"; };
 		8BFD93AFF7596C380C49A94E /* ClassAndStruct.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ClassAndStruct.md; sourceTree = "<group>"; };
 		8BFD9464FA3788FE6D08EAD7 /* FlowControll.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = FlowControll.md; sourceTree = "<group>"; };
+		8BFD951340C7DA49E3EFBB1E /* TableVIew.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = TableVIew.md; sourceTree = "<group>"; };
 		8BFD9596BA21D0C5D990BDAE /* Instance.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Instance.md; sourceTree = "<group>"; };
 		8BFD95A12DFD7EC1CD4F5EFA /* Basic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basic.swift; sourceTree = "<group>"; };
 		8BFD96495B2629052612C2FB /* aaa.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = aaa.playground; sourceTree = "<group>"; };
@@ -47,6 +48,7 @@
 			isa = PBXGroup;
 			children = (
 				8BFD9D196DD1C957692DA0FF /* 1weeks.md */,
+				8BFD951340C7DA49E3EFBB1E /* TableVIew.md */,
 			);
 			path = "Xcode&Ios";
 			sourceTree = "<group>";

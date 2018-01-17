@@ -11,6 +11,9 @@ myName = nil //에러
 
 var myName2 : String? = "bb"
 myName = nil // 에러가 안남
+
+let myName3 = "aaa"
+let result = myName3 ?? "abc"
 ```
 
 <br>
@@ -21,7 +24,7 @@ myName = nil // 에러가 안남
 
 > 옵셔널의 값을 옵셔널이 아닌 값으로 추출
 
-* 강제 추출 : 런타임에러가 날확률이 높음, 지양해야 할 방법
+* 강제 추출 : 런타임에러가 날확률이 높음, 지양해야 할 방법 
 
 ```swift
 var myName : String? = "aa"
@@ -44,6 +47,7 @@ if let name = myName, let age = myAge { // 옵셔널 바인딩을 통한 임시 
 
 <br>
 
+
 * 암시적 추출 옵셔널 : 암시적 추출 옵셔널로 지정된 타입은 일반값처럼 사용할 수 있으나, nil도 할당가능, 그러나 할당시 런타임오류 발생
 
 ```swift
@@ -55,4 +59,7 @@ if var name = myNaae{
 }else{
 
 }
+
 ```
+
+
