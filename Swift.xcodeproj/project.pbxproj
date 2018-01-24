@@ -32,6 +32,7 @@
 		8BFD9C1AA91A5385BDB47F09 /* TypeCasting.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = TypeCasting.md; sourceTree = "<group>"; };
 		8BFD9CAE6FEB548621992266 /* Type.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Type.md; sourceTree = "<group>"; };
 		8BFD9D196DD1C957692DA0FF /* 1weeks.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = 1weeks.md; sourceTree = "<group>"; };
+		8BFD9D6084A975C05FD705BC /* Label.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Label.md; sourceTree = "<group>"; };
 		8BFD9D6DA61E1DC70DFF25AF /* Closure.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Closure.md; sourceTree = "<group>"; };
 		8BFD9DF405149670FE344DC3 /* Subscript.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Subscript.md; sourceTree = "<group>"; };
 		8BFD9EE933DFB5368A83AB64 /* PropertyAndMethod.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = PropertyAndMethod.md; sourceTree = "<group>"; };
@@ -61,6 +62,7 @@
 				8BFD902E31E3061DA8BFDB83 /* Tip.md */,
 				8BFD99AFD2559184EB6F4F0F /* Homework.md */,
 				8BFD99EA6B5E8F6B0BB0C07B /* AutoLayout.md */,
+				8BFD9D6084A975C05FD705BC /* Label.md */,
 			);
 			path = "Xcode&Ios";
 			sourceTree = "<group>";
