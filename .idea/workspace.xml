@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615f3af0-5dbc-49c3-9472-3290d3cf0e7b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/6WeekFirst/6WeekFirst.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/6WeekFirst/6WeekFirst.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" />
       <change beforePath="$PROJECT_DIR$/6WeekFirst/6WeekFirst/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/6WeekFirst/6WeekFirst/Base.lproj/Main.storyboard" />
-      <change beforePath="$PROJECT_DIR$/Swift.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Swift.xcodeproj/project.pbxproj" />
-      <change beforePath="$PROJECT_DIR$/Xcode&amp;Ios/Tip.md" afterPath="$PROJECT_DIR$/Xcode&amp;Ios/Tip.md" />
+      <change beforePath="$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md" afterPath="$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,8 +111,8 @@
         <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="196">
-                <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <first_editor relative-caret-position="168">
+                <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -412,7 +410,7 @@
       <workItem from="1516618214239" duration="1730000" />
       <workItem from="1516620423772" duration="2689000" />
       <workItem from="1516778530532" duration="584000" />
-      <workItem from="1516788737774" duration="2484000" />
+      <workItem from="1516788737774" duration="3517000" />
     </task>
     <task id="LOCAL-00001" summary="add Funtion">
       <created>1514025424385</created>
@@ -722,11 +720,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516790796144</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="add AutoLayout">
+      <created>1516792311433</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1516792311433</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69616000" />
+    <option name="totallyTimeSpent" value="70649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1024" y="0" width="1024" height="768" extended-state="0" />
@@ -782,7 +787,8 @@
     <MESSAGE value="add TypeCasting" />
     <MESSAGE value="add Protocol" />
     <MESSAGE value="add Tip" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Tip" />
+    <MESSAGE value="add AutoLayout" />
+    <option name="LAST_COMMIT_MESSAGE" value="add AutoLayout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1186,8 +1192,8 @@
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="196">
-            <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />
