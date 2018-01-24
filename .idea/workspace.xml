@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615f3af0-5dbc-49c3-9472-3290d3cf0e7b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/xcuserdata/iyeongjun.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI/AppDelegate.swift" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI/Base.lproj/LaunchScreen.storyboard" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI/Base.lproj/Main.storyboard" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUI/ViewController.swift" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUITests/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUITests/SlackUITests.swift" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUIUITests/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SlackUI/SlackUIUITests/SlackUIUITests.swift" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/6WeekFirst/6WeekFirst.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/6WeekFirst/6WeekFirst.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change beforePath="$PROJECT_DIR$/6WeekFirst/6WeekFirst/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/6WeekFirst/6WeekFirst/Base.lproj/Main.storyboard" />
       <change beforePath="$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md" afterPath="$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -96,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/Tip.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="428">
+              <first_editor relative-caret-position="1036">
                 <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
                 <folding>
                   <marker date="1516790852000" expanded="true" signature="128:136" ph="{...}" />
@@ -111,8 +124,8 @@
         <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="168">
-                <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <first_editor relative-caret-position="400">
+                <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -410,7 +423,8 @@
       <workItem from="1516618214239" duration="1730000" />
       <workItem from="1516620423772" duration="2689000" />
       <workItem from="1516778530532" duration="584000" />
-      <workItem from="1516788737774" duration="3517000" />
+      <workItem from="1516788737774" duration="4513000" />
+      <workItem from="1516794415335" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="add Funtion">
       <created>1514025424385</created>
@@ -727,11 +741,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516792311433</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="add AutoLayout">
+      <created>1516793340392</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1516793340392</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70649000" />
+    <option name="totallyTimeSpent" value="72268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1024" y="0" width="1024" height="768" extended-state="0" />
@@ -742,12 +763,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24609375" sideWeight="0.504749" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24609375" sideWeight="0.504749" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1179,7 +1200,7 @@
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/Tip.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="428">
+          <first_editor relative-caret-position="1036">
             <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
             <folding>
               <marker date="1516790852000" expanded="true" signature="128:136" ph="{...}" />
@@ -1192,8 +1213,8 @@
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="168">
-            <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <first_editor relative-caret-position="400">
+            <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
