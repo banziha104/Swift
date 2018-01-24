@@ -6,6 +6,7 @@
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -18,18 +19,65 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TKP-mv-Yog">
-                                <rect key="frame" x="20" y="20" width="100" height="100"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TKP-mv-Yog">
+                                <rect key="frame" x="16" y="20" width="100" height="100"/>
                                 <color key="backgroundColor" red="0.62037682429999996" green="0.83738423780000004" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" priority="999" constant="100" id="Dcu-fN-7Yt"/>
+                                    <constraint firstAttribute="height" constant="100" id="Z17-wO-e43"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SHe-B5-JSs">
+                                <rect key="frame" x="159" y="20" width="200" height="100"/>
+                                <color key="backgroundColor" red="1" green="0.75120908279999998" blue="0.49435265160000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="tintColor" red="1" green="0.75120908279999998" blue="0.49435265160000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fwg-Qg-CIP">
+                                <rect key="frame" x="166" y="323" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7n3-rH-l8f">
+                                <rect key="frame" x="16" y="360" width="343" height="291"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JKD-LQ-Spt">
+                                        <rect key="frame" x="150" y="105" width="42" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="JKD-LQ-Spt" secondAttribute="bottom" constant="165" id="4Rg-YC-Bvb"/>
+                                    <constraint firstItem="JKD-LQ-Spt" firstAttribute="leading" secondItem="7n3-rH-l8f" secondAttribute="leading" constant="150" id="GIk-uA-591"/>
+                                    <constraint firstAttribute="trailing" secondItem="JKD-LQ-Spt" secondAttribute="trailing" constant="151" id="QV4-Av-uhg"/>
+                                    <constraint firstItem="JKD-LQ-Spt" firstAttribute="top" secondItem="7n3-rH-l8f" secondAttribute="top" constant="105" id="U4A-aN-jaC"/>
+                                </constraints>
                             </view>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="SHe-B5-JSs" firstAttribute="top" secondItem="TKP-mv-Yog" secondAttribute="top" id="2ZX-jm-VME"/>
+                            <constraint firstItem="TKP-mv-Yog" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="4Lz-lE-5BV"/>
+                            <constraint firstItem="SHe-B5-JSs" firstAttribute="width" secondItem="TKP-mv-Yog" secondAttribute="width" multiplier="2" id="58E-eS-F0i"/>
+                            <constraint firstItem="Fwg-Qg-CIP" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="A7J-N2-blS"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="7n3-rH-l8f" secondAttribute="trailing" constant="16" id="Dg9-lg-uRn"/>
+                            <constraint firstItem="7n3-rH-l8f" firstAttribute="top" secondItem="Fwg-Qg-CIP" secondAttribute="bottom" constant="16" id="Qmp-W6-E3w"/>
+                            <constraint firstItem="SHe-B5-JSs" firstAttribute="height" secondItem="TKP-mv-Yog" secondAttribute="height" id="UPz-fF-Mav"/>
+                            <constraint firstItem="Fwg-Qg-CIP" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="XEF-K8-xCF"/>
+                            <constraint firstItem="7n3-rH-l8f" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="aiH-cP-BUI"/>
+                            <constraint firstItem="TKP-mv-Yog" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="bfg-oV-NO4"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="SHe-B5-JSs" secondAttribute="trailing" constant="16" id="bge-W0-037"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="7n3-rH-l8f" secondAttribute="bottom" constant="16" id="bha-lJ-nAM"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="621.60000000000002" y="58.920539730134934"/>
         </scene>
     </scenes>
 </document>

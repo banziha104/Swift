@@ -26,6 +26,7 @@
 		8BFD990AD15E0FE5DA7AFE7A /* PageController.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = PageController.md; sourceTree = "<group>"; };
 		8BFD9923184F7A9237BA64F1 /* Pattern.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Pattern.md; sourceTree = "<group>"; };
 		8BFD99AFD2559184EB6F4F0F /* Homework.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Homework.md; sourceTree = "<group>"; };
+		8BFD99EA6B5E8F6B0BB0C07B /* AutoLayout.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = AutoLayout.md; sourceTree = "<group>"; };
 		8BFD9B394D84D7858A0E8B1D /* Extensions.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Extensions.md; sourceTree = "<group>"; };
 		8BFD9BDE3DC6D9BBD0857BC3 /* Optional.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Optional.md; sourceTree = "<group>"; };
 		8BFD9C1AA91A5385BDB47F09 /* TypeCasting.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = TypeCasting.md; sourceTree = "<group>"; };
@@ -59,6 +60,7 @@
 				8BFD990AD15E0FE5DA7AFE7A /* PageController.md */,
 				8BFD902E31E3061DA8BFDB83 /* Tip.md */,
 				8BFD99AFD2559184EB6F4F0F /* Homework.md */,
+				8BFD99EA6B5E8F6B0BB0C07B /* AutoLayout.md */,
 			);
 			path = "Xcode&Ios";
 			sourceTree = "<group>";
