@@ -48,6 +48,10 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bSh-0H-Qzb">
+                                <rect key="frame" x="327" y="80" width="32" height="30"/>
+                                <state key="normal" title="Next"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -58,8 +62,10 @@
                             <constraint firstItem="yNk-F0-KSE" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="HiS-Hp-TcQ"/>
                             <constraint firstItem="Qvj-AL-BIN" firstAttribute="leading" secondItem="OYn-80-7T6" secondAttribute="leading" id="OKy-Iw-Mbw"/>
                             <constraint firstItem="OYn-80-7T6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="Vt2-GF-3Ad"/>
+                            <constraint firstItem="bSh-0H-Qzb" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="cMl-2I-dqs"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="yNk-F0-KSE" secondAttribute="bottom" constant="16" id="qh3-jF-sbx"/>
                             <constraint firstItem="OYn-80-7T6" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="t82-aO-Jgs"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="bSh-0H-Qzb" secondAttribute="trailing" constant="16" id="tCV-dL-whA"/>
                             <constraint firstItem="Qvj-AL-BIN" firstAttribute="top" secondItem="OYn-80-7T6" secondAttribute="top" id="uAA-kq-LYu"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="OYn-80-7T6" secondAttribute="trailing" constant="16" id="z6i-Ky-APG"/>
                         </constraints>
