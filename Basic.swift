@@ -7,7 +7,7 @@ import UIKit
 class A {
     var a : Int = "ss"
     func main(){
-
+        
     }
     subscript(index : Int) -> Int{
 
