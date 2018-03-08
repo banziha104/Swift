@@ -17,6 +17,7 @@
 		8BFD93AFF7596C380C49A94E /* ClassAndStruct.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ClassAndStruct.md; sourceTree = "<group>"; };
 		8BFD9464FA3788FE6D08EAD7 /* FlowControll.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = FlowControll.md; sourceTree = "<group>"; };
 		8BFD94757CE2862D2B2629B8 /* CoreData.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CoreData.md; sourceTree = "<group>"; };
+		8BFD949E863BF81881DDD777 /* Memory.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Memory.md; sourceTree = "<group>"; };
 		8BFD951340C7DA49E3EFBB1E /* TableVIew.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = TableVIew.md; sourceTree = "<group>"; };
 		8BFD9596BA21D0C5D990BDAE /* Instance.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Instance.md; sourceTree = "<group>"; };
 		8BFD95A12DFD7EC1CD4F5EFA /* Basic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basic.swift; sourceTree = "<group>"; };
@@ -29,6 +30,7 @@
 		8BFD9923184F7A9237BA64F1 /* Pattern.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Pattern.md; sourceTree = "<group>"; };
 		8BFD99BA8243A50441327B61 /* UIScreen.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = UIScreen.md; sourceTree = "<group>"; };
 		8BFD99EA6B5E8F6B0BB0C07B /* AutoLayout.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = AutoLayout.md; sourceTree = "<group>"; };
+		8BFD9A6E8458B5C95A0D8D55 /* Network.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Network.md; sourceTree = "<group>"; };
 		8BFD9B394D84D7858A0E8B1D /* Extensions.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Extensions.md; sourceTree = "<group>"; };
 		8BFD9BDE3DC6D9BBD0857BC3 /* Optional.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Optional.md; sourceTree = "<group>"; };
 		8BFD9C1AA91A5385BDB47F09 /* TypeCasting.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = TypeCasting.md; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		8BFD9D6084A975C05FD705BC /* Label.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Label.md; sourceTree = "<group>"; };
 		8BFD9D6DA61E1DC70DFF25AF /* Closure.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Closure.md; sourceTree = "<group>"; };
 		8BFD9DF405149670FE344DC3 /* Subscript.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Subscript.md; sourceTree = "<group>"; };
+		8BFD9E2C2E9B78CE25479FFE /* GPS.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = GPS.md; sourceTree = "<group>"; };
 		8BFD9EE933DFB5368A83AB64 /* PropertyAndMethod.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = PropertyAndMethod.md; sourceTree = "<group>"; };
 		8BFD9F2ABB33E2A6B36CFF01 /* Funtion.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Funtion.md; sourceTree = "<group>"; };
 		8BFD9FA48236CF3DDEB5483E /* Operator.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Operator.md; sourceTree = "<group>"; };
@@ -69,6 +72,9 @@
 				8BFD92FDA840E48D1A47AC86 /* Noti.md */,
 				8BFD94757CE2862D2B2629B8 /* CoreData.md */,
 				8BFD9CD63B67ED6EDC260AA3 /* Cocoapods.md */,
+				8BFD9A6E8458B5C95A0D8D55 /* Network.md */,
+				8BFD9E2C2E9B78CE25479FFE /* GPS.md */,
+				8BFD949E863BF81881DDD777 /* Memory.md */,
 			);
 			path = "Xcode&Ios";
 			sourceTree = "<group>";
