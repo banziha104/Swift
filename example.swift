@@ -9,6 +9,7 @@ class example {
 
     func myFun(callback myLet : String) -> String{
         return myLet
+
     }
     
 }

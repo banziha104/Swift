@@ -20,4 +20,3 @@
 # View as : IPhone 8(wC hR)
 
 - Vary for Traits : 화면 커스터마이징
-
