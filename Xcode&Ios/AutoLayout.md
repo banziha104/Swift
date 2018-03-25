@@ -20,3 +20,22 @@
 # View as : IPhone 8(wC hR)
 
 - Vary for Traits : 화면 커스터마이징
+
+# Adaptive UI
+
+> Universal Storyboard 
+
+- AutoLayout
+- Size Class
+    - Compact : 작음
+    - Regular : 큼
+    - Any
+- Trait Collection : 실행되는 기기의 정정
+
+- Vary for This: 해당 기기와 방향에 맞게 커스터마이징
+- Constant의 + : 사이즈 클래스에 맞게 제약을 맞춰줄수 있
+- viewWillTransition : 해상도별로 작업할떄 오버라이드함
+
+
+# Intrinsic Content Sjze
+
