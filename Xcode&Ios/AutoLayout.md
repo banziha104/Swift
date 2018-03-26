@@ -36,6 +36,23 @@
 - Constant의 + : 사이즈 클래스에 맞게 제약을 맞춰줄수 있
 - viewWillTransition : 해상도별로 작업할떄 오버라이드함
 
+# AutoLayout Code
+
+- NSLayoutConstraint
+- Visual Format Language
+- Layout Anchor
+
+- 라이브러리
+    - SnapKit
+    - TinyConstraints
+    - Cartography
+    
+# Layout Debugging
+
+View Debugger 클릭 -> 하이어라키의 느낌표 클릭 -> Size Inspector 오류확인
+ㅁ
 
 # Intrinsic Content Sjze
+
+
 
