@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="615f3af0-5dbc-49c3-9472-3290d3cf0e7b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Markdown/TDDAndDI.md" afterPath="$PROJECT_DIR$/Markdown/TDDAndDI.md" />
       <change beforePath="$PROJECT_DIR$/Projects/AutoLayout" afterPath="$PROJECT_DIR$/Projects/AutoLayout" />
+      <change beforePath="$PROJECT_DIR$/Projects/FastLogin" afterPath="$PROJECT_DIR$/Projects/FastLogin" />
       <change beforePath="$PROJECT_DIR$/Projects/iOSStudy" afterPath="$PROJECT_DIR$/Projects/iOSStudy" />
       <change beforePath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" />
     </list>
@@ -291,27 +291,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Cidr.FilesView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -333,6 +312,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Cidr.FilesView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,7 +330,7 @@
     <property name="SearchEverywhereHistoryKey" value="auto&#9;FILE&#9;file:///Users/iyeongjun/Project/ApPro/Swift/Xcode&amp;Ios/AutoLayout.md&#10;cocoa&#9;FILE&#9;file:///Users/iyeongjun/Project/ApPro/Swift/Xcode&amp;Ios/Cocoapods.md&#10;guard&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Swift" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -480,14 +470,9 @@
       <workItem from="1521794807324" duration="115000" />
       <workItem from="1521939578011" duration="11751000" />
       <workItem from="1522033514217" duration="397000" />
-      <workItem from="1522042672683" duration="3000" />
-    </task>
-    <task id="LOCAL-00013" summary="add Instance">
-      <created>1515116728928</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1515116728928</updated>
+      <workItem from="1522042672683" duration="202000" />
+      <workItem from="1522118367591" duration="50000" />
+      <workItem from="1522197624345" duration="1000" />
     </task>
     <task id="LOCAL-00014" summary="add Instance">
       <created>1515126272875</created>
@@ -825,15 +810,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522033715128</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="add Projects">
+      <created>1522042683679</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1522042683679</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101742000" />
+    <option name="totallyTimeSpent" value="101992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593128" sideWeight="0.49525103" order="0" side_tool="false" content_ui="combo" />
@@ -1041,32 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/GPS.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1764">
-            <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
-            <folding>
-              <marker date="1519818723129" expanded="true" signature="95:224" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="296:913" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="407:560" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="665:825" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="852:906" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="1096:1225" ph="//..." />
-              <marker date="1519818723129" expanded="true" signature="1227:1259" ph="import ..." />
-              <marker date="1519818723129" expanded="true" signature="1300:1858" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="1389:1699" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="1745:1851" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="1912:2532" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="2023:2179" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="2284:2444" ph="{...}" />
-              <marker date="1519818723129" expanded="true" signature="2471:2525" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/Memory.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1151,6 +1116,32 @@
             <folding>
               <marker date="1518439435129" expanded="true" signature="254:606" ph="{...}" />
               <marker date="1518439435129" expanded="true" signature="663:730" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/GPS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1764">
+            <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+            <folding>
+              <marker date="1519818723129" expanded="true" signature="95:224" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="296:913" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="407:560" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="665:825" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="852:906" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="1096:1225" ph="//..." />
+              <marker date="1519818723129" expanded="true" signature="1227:1259" ph="import ..." />
+              <marker date="1519818723129" expanded="true" signature="1300:1858" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="1389:1699" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="1745:1851" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="1912:2532" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="2023:2179" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="2284:2444" ph="{...}" />
+              <marker date="1519818723129" expanded="true" signature="2471:2525" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
