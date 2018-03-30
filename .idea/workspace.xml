@@ -44,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/Markdown/TDDAndDI.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="766">
-                <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <first_editor relative-caret-position="420">
+                <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -483,14 +483,8 @@
       <workItem from="1522042672683" duration="202000" />
       <workItem from="1522118367591" duration="50000" />
       <workItem from="1522197624345" duration="79000" />
-      <workItem from="1522314697423" duration="222000" />
-    </task>
-    <task id="LOCAL-00017" summary="add Instance">
-      <created>1515128220738</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1515128220738</updated>
+      <workItem from="1522314697423" duration="601000" />
+      <workItem from="1522396538757" duration="2000" />
     </task>
     <task id="LOCAL-00018" summary="add AccessControl">
       <created>1515128817725</created>
@@ -828,15 +822,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522314831435</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="add Projects">
+      <created>1522315229659</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1522315229660</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102292000" />
+    <option name="totallyTimeSpent" value="102673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593128" sideWeight="0.49525103" order="0" side_tool="false" content_ui="combo" />
@@ -1044,19 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/Tip.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="224">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding>
-              <marker date="1518439435130" expanded="true" signature="128:136" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/AutoLayout.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1071,8 +1058,8 @@
     <entry file="file://$PROJECT_DIR$/Markdown/TDDAndDI.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="766">
-            <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <first_editor relative-caret-position="420">
+            <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1154,6 +1141,19 @@
               <marker date="1519818723129" expanded="true" signature="2023:2179" ph="{...}" />
               <marker date="1519818723129" expanded="true" signature="2284:2444" ph="{...}" />
               <marker date="1519818723129" expanded="true" signature="2471:2525" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/Tip.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="224">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding>
+              <marker date="1518439435130" expanded="true" signature="128:136" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
