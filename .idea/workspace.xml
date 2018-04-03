@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615f3af0-5dbc-49c3-9472-3290d3cf0e7b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt.xcodeproj/project.pbxproj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/AppDelegate.swift" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Assets.xcassets/AppIcon.appiconset/Contents.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Base.lproj/LaunchScreen.storyboard" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Base.lproj/Main.storyboard" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Info.plist" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/ViewController.swift" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Projects/AutoLayout" afterPath="$PROJECT_DIR$/Projects/AutoLayout" />
-      <change beforePath="$PROJECT_DIR$/Projects/FastLogin" afterPath="$PROJECT_DIR$/Projects/FastLogin" />
-      <change beforePath="$PROJECT_DIR$/Projects/iOSStudy" afterPath="$PROJECT_DIR$/Projects/iOSStudy" />
-      <change beforePath="$PROJECT_DIR$/Projects/iOSStudy/iOSStudy/SOPT/Sopt1WeekThirdViewController.swift" afterPath="$PROJECT_DIR$/Projects/iOSStudy/iOSStudy/SOPT/Sopt1WeekThirdViewController.swift" />
-      <change beforePath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Sopt/Sopt/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/AutoLayout" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/AutoLayout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/FastLogin" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/FastLogin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/iOSStudy" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/iOSStudy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +46,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="364">
-                <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+                <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
                 <folding>
                   <marker date="1518439435077" expanded="true" signature="60:78" ph="{...}" />
                   <marker date="1518439435077" expanded="true" signature="103:145" ph="{...}" />
@@ -59,7 +65,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="448">
-                <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+                <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
                 <folding>
                   <marker date="1518439435081" expanded="true" signature="76:115" ph="{...}" />
                   <marker date="1518439435081" expanded="true" signature="88:113" ph="{...}" />
@@ -94,10 +100,7 @@
         <entry file="file://$PROJECT_DIR$/Markdown/FuntionalProgramming.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -107,10 +110,7 @@
         <entry file="file://$PROJECT_DIR$/Markdown/AceessControl.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -120,10 +120,7 @@
         <entry file="file://$PROJECT_DIR$/Markdown/Closure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -133,10 +130,7 @@
         <entry file="file://$PROJECT_DIR$/Markdown/Date.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -146,10 +140,7 @@
         <entry file="file://$PROJECT_DIR$/Markdown/Funtion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -160,8 +151,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="610">
-                <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-                <folding />
+                <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,8 +162,7 @@
         <entry file="file://$PROJECT_DIR$/Markdown/Enumeration.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor>
                 <folding>
                   <marker date="1518439435079" expanded="true" signature="156:201" ph="{...}" />
                   <marker date="1518439435079" expanded="true" signature="519:560" ph="/*...*/" />
@@ -289,19 +278,25 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Cidr.FilesView" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Cidr.FilesView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,22 +318,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Cidr.FilesView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,13 +471,7 @@
       <workItem from="1522473778023" duration="607000" />
       <workItem from="1522562877022" duration="667000" />
       <workItem from="1522581119100" duration="433000" />
-    </task>
-    <task id="LOCAL-00021" summary="add Closer">
-      <created>1515396377312</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1515396377312</updated>
+      <workItem from="1522736766257" duration="71000" />
     </task>
     <task id="LOCAL-00022" summary="add Closer">
       <created>1515397070018</created>
@@ -835,37 +809,45 @@
       <option name="project" value="LOCAL" />
       <updated>1522582399270</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="add Sopt">
+      <created>1522736786787</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1522736786788</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105033000" />
+    <option name="totallyTimeSpent" value="105104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593128" sideWeight="0.49525103" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24609375" sideWeight="0.504749" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49525103" visible="true" weight="0.24593128" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32875144" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.504749" side_tool="true" weight="0.24609375" />
+      <window_info anchor="bottom" id="SFDX" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Log Manager" order="7" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Salesforce" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -905,14 +887,13 @@
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Markdown/Type.md" />
     <entry file="file://$PROJECT_DIR$/Basic.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -920,14 +901,14 @@
     <entry file="file://$PROJECT_DIR$/Basic.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -953,13 +934,13 @@
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/Network.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="860">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="952">
-            <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
           </first_editor>
           <second_editor />
         </state>
@@ -968,9 +949,7 @@
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/TableVIew.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -978,9 +957,7 @@
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/UIScreen.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -988,28 +965,24 @@
     <entry file="file://$PROJECT_DIR$/Basic.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Weather/Weather/AppDelegate.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Weather/Weather/ViewController.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1624">
-          <caret line="61" column="43" lean-forward="false" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1017,7 +990,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1288">
-            <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -1027,7 +1000,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="420">
-            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
@@ -1037,7 +1010,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="364">
-            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -1046,13 +1019,13 @@
     <entry file="file://$PROJECT_DIR$/Xcode&amp;Ios/Cocoapods.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="616">
-            <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -1062,7 +1035,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="168">
-            <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -1072,7 +1045,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1764">
-            <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+            <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -1082,7 +1055,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="224">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <caret line="8" selection-start-line="8" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -1091,9 +1064,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/Extensions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1102,7 +1073,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="504">
-            <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -1111,9 +1082,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/Protocol.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1122,7 +1091,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="448">
-            <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             <folding>
               <marker date="1518439435081" expanded="true" signature="76:115" ph="{...}" />
               <marker date="1518439435081" expanded="true" signature="88:113" ph="{...}" />
@@ -1155,10 +1124,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/FuntionalProgramming.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1167,7 +1133,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="364">
-            <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             <folding>
               <marker date="1518439435077" expanded="true" signature="60:78" ph="{...}" />
               <marker date="1518439435077" expanded="true" signature="103:145" ph="{...}" />
@@ -1183,10 +1149,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/Closure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1194,10 +1157,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/Funtion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1205,10 +1165,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/Date.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1216,8 +1173,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/Enumeration.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor>
             <folding>
               <marker date="1518439435079" expanded="true" signature="156:201" ph="{...}" />
               <marker date="1518439435079" expanded="true" signature="519:560" ph="/*...*/" />
@@ -1232,10 +1188,7 @@
     <entry file="file://$PROJECT_DIR$/Markdown/AceessControl.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -1244,8 +1197,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="610">
-            <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-            <folding />
+            <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
