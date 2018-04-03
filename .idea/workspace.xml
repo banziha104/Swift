@@ -13,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/Projects/AutoLayout" afterPath="$PROJECT_DIR$/Projects/AutoLayout" />
       <change beforePath="$PROJECT_DIR$/Projects/FastLogin" afterPath="$PROJECT_DIR$/Projects/FastLogin" />
       <change beforePath="$PROJECT_DIR$/Projects/iOSStudy" afterPath="$PROJECT_DIR$/Projects/iOSStudy" />
+      <change beforePath="$PROJECT_DIR$/Projects/iOSStudy/iOSStudy/SOPT/Sopt1WeekThirdViewController.swift" afterPath="$PROJECT_DIR$/Projects/iOSStudy/iOSStudy/SOPT/Sopt1WeekThirdViewController.swift" />
       <change beforePath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -405,9 +406,6 @@
       <envs />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -492,14 +490,7 @@
       <workItem from="1522396538757" duration="655000" />
       <workItem from="1522473778023" duration="607000" />
       <workItem from="1522562877022" duration="667000" />
-      <workItem from="1522581119100" duration="354000" />
-    </task>
-    <task id="LOCAL-00020" summary="add Closer">
-      <created>1515395594506</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1515395594506</updated>
+      <workItem from="1522581119100" duration="433000" />
     </task>
     <task id="LOCAL-00021" summary="add Closer">
       <created>1515396377312</created>
@@ -837,11 +828,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522475640595</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="add Sopt">
+      <created>1522582399269</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1522582399270</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104954000" />
+    <option name="totallyTimeSpent" value="105033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
