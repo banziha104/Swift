@@ -17,6 +17,7 @@
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Base.lproj/Main.storyboard" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Info.plist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/AutoLayout" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/AutoLayout" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/FastLogin" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/FastLogin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/iOSStudy" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/iOSStudy" afterDir="false" />
@@ -150,8 +151,8 @@
         <entry file="file://$PROJECT_DIR$/Markdown/FlowControll.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="610">
-                <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <first_editor relative-caret-position="526">
+                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -249,9 +250,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="984" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -281,22 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Cidr.FilesView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,7 +305,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Cidr.FilesView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -472,13 +474,7 @@
       <workItem from="1522562877022" duration="667000" />
       <workItem from="1522581119100" duration="433000" />
       <workItem from="1522736766257" duration="71000" />
-    </task>
-    <task id="LOCAL-00022" summary="add Closer">
-      <created>1515397070018</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1515397070018</updated>
+      <workItem from="1522739245349" duration="754000" />
     </task>
     <task id="LOCAL-00023" summary="add Optional Chaning">
       <created>1515409263057</created>
@@ -816,14 +812,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522736786788</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="add Sopt">
+      <created>1522739259631</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1522739259631</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105104000" />
+    <option name="totallyTimeSpent" value="105858000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
@@ -889,6 +892,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Markdown/FlowControll.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="616">
+            <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Markdown/Type.md" />
     <entry file="file://$PROJECT_DIR$/Basic.swift">
       <provider selected="true" editor-type-id="text-editor">
@@ -975,9 +988,6 @@
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Weather/Weather/AppDelegate.swift">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Weather/Weather/ViewController.swift">
       <provider selected="true" editor-type-id="text-editor">
@@ -1196,8 +1206,8 @@
     <entry file="file://$PROJECT_DIR$/Markdown/FlowControll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="610">
-            <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <first_editor relative-caret-position="526">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           </first_editor>
           <second_editor />
         </state>
