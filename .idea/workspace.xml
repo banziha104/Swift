@@ -17,6 +17,7 @@
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Base.lproj/Main.storyboard" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Info.plist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/AutoLayout" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/AutoLayout" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/FastLogin" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/FastLogin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/iOSStudy" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/iOSStudy" afterDir="false" />
@@ -152,7 +153,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="598">
-                <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+                <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -283,22 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Cidr.FilesView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
-              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -316,6 +301,22 @@
               <item name="" type="efc3779f:XcodeRootNode" />
               <item name="Swift" type="1d218c8b:XcodeProjectNode" />
               <item name="Xcode&amp;Ios" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Swift" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -476,13 +477,7 @@
       <workItem from="1522736766257" duration="71000" />
       <workItem from="1522739245349" duration="754000" />
       <workItem from="1522822400463" duration="492000" />
-    </task>
-    <task id="LOCAL-00025" summary="add Optional Chaning">
-      <created>1515482859017</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1515482859017</updated>
+      <workItem from="1522888225584" duration="32000" />
     </task>
     <task id="LOCAL-00026" summary="add Optional Chaning">
       <created>1515482952292</created>
@@ -820,11 +815,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522822466456</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="add Sopt">
+      <created>1522888237878</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1522888237880</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106350000" />
+    <option name="totallyTimeSpent" value="106382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="984" extended-state="0" />
@@ -1207,7 +1209,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="598">
-            <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
