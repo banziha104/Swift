@@ -17,12 +17,21 @@
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Base.lproj/Main.storyboard" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/Info.plist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Projects/iOSExample/iOSExample/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/AutoLayout" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/AutoLayout" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/FastLogin" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/FastLogin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/SlackUI/SlackUI.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/kei.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI.xcodeproj/xcuserdata/kei.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/Assets.xcassets/prev.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/Assets.xcassets/prev.imageset/icons8-left-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/SecondViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/SlackUI/SlackUI/ViewController.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/iOSStudy" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/iOSStudy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/rxTest" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/rxTest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/SlackUI/SlackUI.xcodeproj/project.xcworkspace/xcuserdata/iyeongjun.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,8 +161,8 @@
         <entry file="file://$PROJECT_DIR$/Markdown/FlowControll.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="598">
-                <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <first_editor relative-caret-position="402">
+                <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -284,7 +293,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,6 +330,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,13 +487,7 @@
       <workItem from="1522739245349" duration="754000" />
       <workItem from="1522822400463" duration="492000" />
       <workItem from="1522888225584" duration="32000" />
-    </task>
-    <task id="LOCAL-00026" summary="add Optional Chaning">
-      <created>1515482952292</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1515482952292</updated>
+      <workItem from="1523084376410" duration="312000" />
     </task>
     <task id="LOCAL-00027" summary="add FuntionalProgramming">
       <created>1515568960713</created>
@@ -822,11 +825,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522888237880</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="add Sopt">
+      <created>1523084392965</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1523084392966</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106382000" />
+    <option name="totallyTimeSpent" value="106694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="984" extended-state="0" />
@@ -1208,8 +1218,8 @@
     <entry file="file://$PROJECT_DIR$/Markdown/FlowControll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="598">
-            <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <first_editor relative-caret-position="402">
+            <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
