@@ -23,6 +23,7 @@
 		8BFD9596BA21D0C5D990BDAE /* Instance.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Instance.md; sourceTree = "<group>"; };
 		8BFD95A12DFD7EC1CD4F5EFA /* Basic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basic.swift; sourceTree = "<group>"; };
 		8BFD961890365F780FF670A0 /* RxSwift.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = RxSwift.md; sourceTree = "<group>"; };
+		8BFD964A3A3F0BE3BAD38847 /* const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = const.swift; sourceTree = "<group>"; };
 		8BFD97B760CF6056F6066AF1 /* Protocol.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Protocol.md; sourceTree = "<group>"; };
 		8BFD97D8E4E97D9AEDAC0F5B /* OptinalChaning.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = OptinalChaning.md; sourceTree = "<group>"; };
 		8BFD981A2E1688F3DE8E63A8 /* iOSMemoryManagement.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = iOSMemoryManagement.md; sourceTree = "<group>"; };
@@ -57,6 +58,7 @@
 				8BFD9914401E0D3A59EAE4A2 /* Markdown */,
 				8BFD92E683771E560293F6AC /* Xcode&Ios */,
 				8BFD91C761B92E3C87B559C8 /* example.swift */,
+				8BFD964A3A3F0BE3BAD38847 /* const.swift */,
 			);
 			sourceTree = "<group>";
 		};
