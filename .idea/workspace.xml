@@ -173,8 +173,8 @@
       <file leaf-file-name="const.swift" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/const.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="280">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -303,6 +303,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Cidr.FilesView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Swift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Swift" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,18 +331,6 @@
               <item name="" type="efc3779f:XcodeRootNode" />
               <item name="Swift" type="1d218c8b:XcodeProjectNode" />
               <item name="Xcode&amp;Ios" type="fcab9f18:XcodeViewNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Cidr.FilesView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Swift" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Swift" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -496,13 +496,7 @@
       <workItem from="1523182452775" duration="293000" />
       <workItem from="1523284062416" duration="320000" />
       <workItem from="1523324744673" duration="24000" />
-    </task>
-    <task id="LOCAL-00029" summary="add Subscript">
-      <created>1515722300450</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1515722300450</updated>
+      <workItem from="1523425599083" duration="158000" />
     </task>
     <task id="LOCAL-00030" summary="add Inheritance">
       <created>1515723073123</created>
@@ -840,14 +834,22 @@
       <option name="project" value="LOCAL" />
       <updated>1523284766532</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="add Sopt">
+      <created>1523425614594</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1523425614594</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107664000" />
+    <option name="totallyTimeSpent" value="107822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="984" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="984" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49525103" visible="true" weight="0.24593128" />
@@ -1219,8 +1221,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/const.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="280">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
