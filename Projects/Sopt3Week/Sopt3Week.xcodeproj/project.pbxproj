@@ -7,16 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F79D6EE2081F1140064D86C /* ExtensionControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F79D6ED2081F1140064D86C /* ExtensionControl.swift */; };
 		2FBE6F4B2081D1AC00C0B4A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBE6F4A2081D1AC00C0B4A6 /* AppDelegate.swift */; };
 		2FBE6F4D2081D1AC00C0B4A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBE6F4C2081D1AC00C0B4A6 /* ViewController.swift */; };
 		2FBE6F502081D1AC00C0B4A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FBE6F4E2081D1AC00C0B4A6 /* Main.storyboard */; };
 		2FBE6F522081D1AD00C0B4A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FBE6F512081D1AD00C0B4A6 /* Assets.xcassets */; };
 		2FBE6F552081D1AD00C0B4A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FBE6F532081D1AD00C0B4A6 /* LaunchScreen.storyboard */; };
+		2FBE6F5D2081D59B00C0B4A6 /* FriendsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBE6F5C2081D59B00C0B4A6 /* FriendsViewController.swift */; };
+		2FBE6F5F2081D60100C0B4A6 /* FriendsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBE6F5E2081D60100C0B4A6 /* FriendsTableViewCell.swift */; };
+		2FBE6F612081DC2E00C0B4A6 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBE6F602081DC2E00C0B4A6 /* Profile.swift */; };
+		2FBE6F632081E18A00C0B4A6 /* FriendsHeaderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBE6F622081E18A00C0B4A6 /* FriendsHeaderTableViewCell.swift */; };
 		FFF5494E1BAAEE9B55E1C617 /* Pods_Sopt3Week.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E801AE86B80C79D526EEB99B /* Pods_Sopt3Week.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		16D7976BD815E3944F236F04 /* Pods-Sopt3Week.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sopt3Week.release.xcconfig"; path = "Pods/Target Support Files/Pods-Sopt3Week/Pods-Sopt3Week.release.xcconfig"; sourceTree = "<group>"; };
+		2F79D6ED2081F1140064D86C /* ExtensionControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionControl.swift; sourceTree = "<group>"; };
 		2FBE6F472081D1AC00C0B4A6 /* Sopt3Week.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sopt3Week.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FBE6F4A2081D1AC00C0B4A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FBE6F4C2081D1AC00C0B4A6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +30,10 @@
 		2FBE6F512081D1AD00C0B4A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FBE6F542081D1AD00C0B4A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FBE6F562081D1AD00C0B4A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FBE6F5C2081D59B00C0B4A6 /* FriendsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsViewController.swift; sourceTree = "<group>"; };
+		2FBE6F5E2081D60100C0B4A6 /* FriendsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsTableViewCell.swift; sourceTree = "<group>"; };
+		2FBE6F602081DC2E00C0B4A6 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		2FBE6F622081E18A00C0B4A6 /* FriendsHeaderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsHeaderTableViewCell.swift; sourceTree = "<group>"; };
 		6D6E8CCF31A49EB0164F08BF /* Pods-Sopt3Week.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sopt3Week.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Sopt3Week/Pods-Sopt3Week.debug.xcconfig"; sourceTree = "<group>"; };
 		E801AE86B80C79D526EEB99B /* Pods_Sopt3Week.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Sopt3Week.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -67,6 +77,11 @@
 				2FBE6F512081D1AD00C0B4A6 /* Assets.xcassets */,
 				2FBE6F532081D1AD00C0B4A6 /* LaunchScreen.storyboard */,
 				2FBE6F562081D1AD00C0B4A6 /* Info.plist */,
+				2FBE6F5C2081D59B00C0B4A6 /* FriendsViewController.swift */,
+				2FBE6F5E2081D60100C0B4A6 /* FriendsTableViewCell.swift */,
+				2FBE6F602081DC2E00C0B4A6 /* Profile.swift */,
+				2FBE6F622081E18A00C0B4A6 /* FriendsHeaderTableViewCell.swift */,
+				2F79D6ED2081F1140064D86C /* ExtensionControl.swift */,
 			);
 			path = Sopt3Week;
 			sourceTree = "<group>";
@@ -207,7 +222,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FBE6F4D2081D1AC00C0B4A6 /* ViewController.swift in Sources */,
+				2FBE6F612081DC2E00C0B4A6 /* Profile.swift in Sources */,
+				2FBE6F5D2081D59B00C0B4A6 /* FriendsViewController.swift in Sources */,
+				2F79D6EE2081F1140064D86C /* ExtensionControl.swift in Sources */,
 				2FBE6F4B2081D1AC00C0B4A6 /* AppDelegate.swift in Sources */,
+				2FBE6F632081E18A00C0B4A6 /* FriendsHeaderTableViewCell.swift in Sources */,
+				2FBE6F5F2081D60100C0B4A6 /* FriendsTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -355,7 +375,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z362WAX4AX;
 				INFOPLIST_FILE = Sopt3Week/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = Single.Sopt3Week;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -371,7 +394,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z362WAX4AX;
 				INFOPLIST_FILE = Sopt3Week/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = Single.Sopt3Week;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
